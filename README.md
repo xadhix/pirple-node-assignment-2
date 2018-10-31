@@ -1,7 +1,7 @@
 # pirple-node-assignment-2
 Pirple's NodeJS Master Class - Homework Assignment #2
 
-From https://pirple.thinkific.com/courses/take/the-nodejs-master-class/texts/4342320-homework-assignment-1
+From https://pirple.thinkific.com/courses/take/the-nodejs-master-class/texts/4342291-homework-assignment-2
 
 ## The Assignment:
 
